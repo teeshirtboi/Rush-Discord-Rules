@@ -5,7 +5,7 @@
 
 <h2><b>GENERAL RULES</b></h2>
 
-**#1 ⋮** NSFW is not allowed in the server. (This includes NSFW/Gore-ish Pfps/Nickname/Usernames)
+**#1:** NSFW is not allowed in the server. (This includes NSFW/Gore-ish Pfps/Nickname/Usernames)
 
 **#2:** Respect everyone in the server.
 
