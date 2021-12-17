@@ -12,15 +12,15 @@
 <h2><b>CHAT RULES</b></h2>
 
 
-**#1:**  Don't spam. (Spamming includes song lyrics, zalgo, excessive caps/reaction spams, copy pastes, picture/link/GIF spam, reaction spam and walls of text).
+**#1:** Don't spam. (Spamming includes song lyrics, zalgo, excessive caps/reaction spams, copy pastes, picture/link/GIF spam, reaction spam and walls of text).
 
 **#2:** NSFW- this includes posting NSFW pics in media channels and use of NSFW words in general chats.
 
-**#3:** Swearing/Insults-No Swearing. If someone goes all out on personal insults, they will not be allowed in the server.
+**#3:** Swearing/Insults -No Swearing. If someone goes all out on personal insults, they will not be allowed in the server.
 
-**#4:** Personal Conflicts- Any type of personal argument should not be brought up in the server. Direct Messaging is meant for that.
+**#4:** Personal Conflicts - Any type of personal argument should not be brought up in the server. Direct Messaging is meant for that.
 
-**#5:** Religion(Sensitive Topics)- Any debate on sensitive topics including but not limited to Religion, Politics, International Conflicts is not allowed.
+**#5:** Religion(Sensitive Topics) - Any debate on sensitive topics including but not limited to Religion, Politics, International Conflicts is not allowed.
 
 **#6:** Advertising- Advertising other Discord servers or Youtube videos in chat is not allowed at all.
 
